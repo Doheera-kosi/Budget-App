@@ -75,3 +75,9 @@ group :test do
   gem "selenium-webdriver"
   gem "webdrivers"
 end
+
+# Use Sass to process CSS
+gem 'sassc-rails'
+
+# Authorization
+gem 'cancancan'
