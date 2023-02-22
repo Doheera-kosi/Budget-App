@@ -1,10 +1,11 @@
-  <% @total = 0 %>
-  <% catlog.category_dealings.each { |u| @total += u.dealing.amount }%>
+<% @total = 0 %>
+<% catlog.category_dealings.each { |u| @total += u.dealing.amount }%>
 
-  <li class="catlog">
-    <div class="content">
-      <%= image_tag "#{catlog.icon}" %>
-      <h3><%= link_to catlog.name, category_path(catlog.id)%></h3>
-    </div>
-    <p>Total: $<%= @total.floor %></p>
-  </li>
+<li class="catlog">
+  <div class="content">
+    <%= image_tag "#{catlog.icon}.png" %>
+
+    <h3><%= link_to catlog.name, category_path(catlog.id)%></h3>
+  </div>
+  <p>Total: $<%= @total.floor %></p>
+</li>
