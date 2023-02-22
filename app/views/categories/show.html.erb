@@ -4,7 +4,7 @@
       <i class="fa-solid fa-arrow-left"></i>
     <% end %>
       <h3>Transactions</h3>
-    <i class="fa-solid fa-magnifying-glass"></i>
+    <i class="fa-solid fa-magnifying-glass fa-beat-fade"></i>
   </li>
   <%= render "shared/navbar" %>
 </nav>
@@ -38,7 +38,7 @@
     <div class="content_class">
       <p>$<%= c.dealing.amount %></p>
         <%= button_to category_dealing_path(@category, c.id), method: :delete do %>
-          <i class="fa-solid fa-dumpster"></i>
+          <i class="fa-solid fa-delete-left fa-beat-fade"></i>
         <%end%>
     </div>
 </li>

@@ -97,6 +97,8 @@ GEM
       warden (~> 1.2.3)
     erubi (1.12.0)
     ffi (1.15.5-x64-mingw-ucrt)
+    font-awesome-sass (6.3.0)
+      sassc (~> 2.0)
     globalid (1.1.0)
       activesupport (>= 5.0)
     i18n (1.12.0)
@@ -201,8 +203,6 @@ GEM
       sprockets (>= 3.0.0)
     stimulus-rails (1.2.1)
       railties (>= 6.0.0)
-    tailwindcss-rails (2.0.23-x64-mingw-ucrt)
-      railties (>= 6.0.0)
     thor (1.2.1)
     tilt (2.1.0)
     timeout (0.3.2)
@@ -242,6 +242,7 @@ DEPENDENCIES
   capybara
   debug
   devise
+  font-awesome-sass (~> 6.3.0)
   importmap-rails
   jbuilder
   pg (~> 1.1)
@@ -251,7 +252,6 @@ DEPENDENCIES
   selenium-webdriver
   sprockets-rails
   stimulus-rails
-  tailwindcss-rails
   turbo-rails
   tzinfo-data
   web-console
