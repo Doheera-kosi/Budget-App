@@ -176,6 +176,7 @@ If you like this project then please give a ⭐️ and also share your feedback 
 
 - ❤️ [RoR Documentation](https://guides.rubyonrails.org)
 - ❤️ [Gregoire Vella](https://www.behance.net/gregoirevella)
+- ❤️ [Creative Commons](https://creativecommons.org/licenses/by-nc/4.0/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -183,6 +184,6 @@ If you like this project then please give a ⭐️ and also share your feedback 
 
 ## 📝 License <a name="license"></a>
 
-This project is <a href="https://creativecommons.org/licenses/by-nc/4.0/">[Creative Commons]</a> licensed.
+This project is [MIT](./MIT.md) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
