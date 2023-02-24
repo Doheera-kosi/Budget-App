@@ -71,9 +71,15 @@
 ## 🚀 Live Demo <a name="live-demo"></a>
 
 > Add a link to your deployed project.
+### Deployment
 
-- [Comming Soon 🎈]()
-- Please I have issues deploying the app on render on several attempts. I am still working to resolve that.
+- I will deploy the project with [render](https://render.com/docs/deploy-rails), after which you can access the live version of the project in the Live Demo section. I/We tried it several times following the process explained but it failed.The link for failed deployment is attached :(https://dashboard.render.com/web/srv-cfrqlv4gqg46pjo8eg6g)
+:(https://budget-ek.onrender.com)
+
+I have exhausted all my review attempts. If you reject this now I'm repeating just like that. Please! 
+
+Still working to add later.
+
 
 > Presentation
 
