@@ -73,10 +73,11 @@
 > Add a link to your deployed project.
 
 - [Comming Soon 🎈]()
+- Please I have issues deploying the app on render on several attempts. I am still working to resolve that.
 
 > Presentation
 
-- [Loom Video](https://www.loom.com/share/3b36bd4c3b1e46b989b9692f013e7aec)
+- [Loom Video](https://www.loom.com/share/a929265323a740749a4c4e14d7fb2b76)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
