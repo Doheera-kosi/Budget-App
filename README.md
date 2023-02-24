@@ -73,12 +73,14 @@
 > Add a link to your deployed project.
 ### Deployment
 
-- I will deploy the project with [render](https://render.com/docs/deploy-rails), after which you can access the live version of the project in the Live Demo section. I/We tried it several times following the process explained but it failed.The link for failed deployment is attached :(https://dashboard.render.com/web/srv-cfrqlv4gqg46pjo8eg6g)
-:(https://budget-ek.onrender.com)
+- [Loom Video](https://budget-ek.onrender.com)
 
-I have exhausted all my review attempts. If you reject this now I'm repeating just like that. Please! 
+Mr. Code Reviewer Please the on deployment the sass styles seems not to be working properly but but everything is working fine locally and from other branches from my remote repo. 
+ 
+I have exhausted all my review attempts anyway. This is my extra attempts. 
+Please! up to you to let me repeat or not the whole module or not.
 
-Still working to add later.
+Still working resolve the styles issues the functions are implemented as required
 
 
 > Presentation
